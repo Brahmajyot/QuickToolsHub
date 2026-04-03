@@ -15,6 +15,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "/binary-code.png",
   },
+  verification: {
+    google: "4LuRdJbgWeEJzE2VBr0fGM6pPVZlvG3nJnkrb5TeOuI",
+  },
 };
 
 export default function RootLayout({
